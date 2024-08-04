@@ -92,8 +92,7 @@ fun BasicLayout(modifier: Modifier = Modifier){
                 }
                 Column {
                     Text(text = "Nils Muralles")
-                    Text(text = "Elon Musk")
-                    Text(text = "Albert Einstein")
+                    Text(text = "Diego Flores")
                 }
             }
             Row (
